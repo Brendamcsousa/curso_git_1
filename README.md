@@ -1,5 +1,5 @@
 ### Olá, me chamo Brenda Sousa! 
-#### Bem-vindo ao meu perfil no GitHub! :tada:
+#### Bem-vindo ao meu perfil no GitHub! ☀️
 
 
 - Atualmente estou cursando o quinto semestre de Ciência de Dados na UNIVESP - Polo de Santa Bárbara d'Oeste. 
@@ -17,7 +17,7 @@
 
 - **Contato**: 
 
-    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="40"/> [link para meu perfil do Linkedin] (www.linkedin.com/in/brenda-sousa) 
+    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="40"/>   www.linkedin.com/in/brenda-sousa
 
 
 
