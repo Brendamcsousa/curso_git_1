@@ -31,15 +31,15 @@
 - [x] Data & Analytics - PB - AWS 1/10
 
 #### Sprint 2
-- [ ] Data & Analytics - PB - AWS 2/10
+- [x] Data & Analytics - PB - AWS 2/10
       
-- [ ] SQL para Análise de Dados: Do básico ao avançado
+- [x] SQL para Análise de Dados: Do básico ao avançado
 
-- [ ] Data & Analytics - PB - AWS 2/10
+- [x] Data & Analytics - PB - AWS 2/10
 
-- [ ] Big Data Fundamentos 3.0
+- [x] Big Data Fundamentos 3.0
 
-- [ ] Data & Analytics - PB - AWS 2/10
+- [x] Data & Analytics - PB - AWS 2/10
 
 #### Sprint 3
 - [ ] Data & Analytics - PB - AWS 3/10
