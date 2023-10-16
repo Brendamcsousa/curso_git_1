@@ -72,13 +72,14 @@ def parse_total_gross(value):
 
 data = ler_arquivo_csv()
 
-actors_sorted_by_gross = sorted(data, key=lambda x: parse_total_gross(x['Total Gross']) if x['Total Gross'].replace('.', '', 1).isdigit() else float(x['Number of Movies']), reverse=True)
-
+# Sort the data by total gross earnings in descending order
+actors_sorted_by_gross = sorted(data, key=lambda x: parse_total_gross(x['Total Gross']), reverse=True)
 with open('Sprint 3/etapa-5.txt', 'w') as file:
     for actor in actors_sorted_by_gross:
         actor_name = actor['Actor'].strip('"')
         gross = parse_total_gross(actor["Total Gross"])
         file.write(f'"{actor_name}" - {gross:.2f}\n')
+
 
 
 
