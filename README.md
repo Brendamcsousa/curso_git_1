@@ -42,11 +42,11 @@
 - [x] Data & Analytics - PB - AWS 2/10
 
 #### Sprint 3
-- [ ] Data & Analytics - PB - AWS 3/10
+- [x] Data & Analytics - PB - AWS 3/10
       
-- [ ] Python 3 - Curso Completo do Básico ao Avançado
+- [x] Python 3 - Curso Completo do Básico ao Avançado
 
-- [ ] Data & Analytics - PB - AWS 3/10
+- [x] Data & Analytics - PB - AWS 3/10
 
 #### Sprint 4
 - [ ] Data & Analytics - PB - AWS 4/10
