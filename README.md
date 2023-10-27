@@ -49,17 +49,17 @@
 - [x] Data & Analytics - PB - AWS 3/10
 
 #### Sprint 4
-- [ ] Data & Analytics - PB - AWS 4/10
+- [x] Data & Analytics - PB - AWS 4/10
       
-- [ ] Programação funcional: O que é? Alura
+- [x] Programação funcional: O que é? Alura
 
-- [ ] Python 3 - Curso Completo do Básico ao Avançado 
+- [x] Python 3 - Curso Completo do Básico ao Avançado 
 
-- [ ] Docker para Desenvolvedores ( com Docker Swarm e Kubernetes )
+- [x] Docker para Desenvolvedores ( com Docker Swarm e Kubernetes )
       
-- [ ] Estatística Descritiva com Python
+- [x] Estatística Descritiva com Python
 
-- [ ] Data & Analytics - PB - AWS 4/10
+- [x] Data & Analytics - PB - AWS 4/10
 
 #### Sprint 5
 - [ ] Data & Analytics - PB - AWS 5/10
