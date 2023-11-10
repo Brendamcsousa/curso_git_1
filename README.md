@@ -62,19 +62,19 @@
 - [x] Data & Analytics - PB - AWS 4/10
 
 #### Sprint 5
-- [ ] Data & Analytics - PB - AWS 5/10
+- [x] Data & Analytics - PB - AWS 5/10
       
-- [ ] AWS Skill Builder - AWS Partner: Sales Accreditation (Business) (Portuguese)
+- [x] AWS Skill Builder - AWS Partner: Sales Accreditation (Business) (Portuguese)
 
-- [ ] AWS Skill Builder - AWS Cloud Quest: Cloud Practitioner
+- [x] AWS Skill Builder - AWS Cloud Quest: Cloud Practitioner
 
-- [ ] AWS Skill Builder - AWS Partner: Accreditation (Technical) (Portuguese)
+- [x] AWS Skill Builder - AWS Partner: Accreditation (Technical) (Portuguese)
       
-- [ ] AWS Skill Builder - AWS Partner: Cloud Economics Accreditation (Portuguese)
+- [x] AWS Skill Builder - AWS Partner: Cloud Economics Accreditation (Portuguese)
       
-- [ ] AWS Skill Builder - Exam Prep: AWS Certified Cloud Practitioner (Portuguese)
+- [x] AWS Skill Builder - Exam Prep: AWS Certified Cloud Practitioner (Portuguese)
 
-- [ ] Data & Analytics - PB - AWS 5/10
+- [x] Data & Analytics - PB - AWS 5/10
 
 #### Sprint 6
 - [ ] AWS Skill Builder - Data Analytics Fundamentals (Portuguese)
