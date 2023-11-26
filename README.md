@@ -77,33 +77,33 @@
 - [x] Data & Analytics - PB - AWS 5/10
 
 #### Sprint 6
-- [ ] AWS Skill Builder - Data Analytics Fundamentals (Portuguese)
+- [x] AWS Skill Builder - Data Analytics Fundamentals (Portuguese)
 
-- [ ] AWS Partner: Data Analytics on AWS (Business) (Portuguese)
+- [x] AWS Partner: Data Analytics on AWS (Business) (Portuguese)
 
-- [ ] AWS Skill Builder - Introduction to Amazon Kinesis Streams
+- [x] AWS Skill Builder - Introduction to Amazon Kinesis Streams
 
-- [ ] AWS Skill Builder - Introduction to Amazon Kinesis Analytics
+- [x] AWS Skill Builder - Introduction to Amazon Kinesis Analytics
 
-- [ ] AWS Skill Builder - Introduction to Amazon Elastic MapReduce (EMR) (Portuguese)
+- [x] AWS Skill Builder - Introduction to Amazon Elastic MapReduce (EMR) (Portuguese)
 
-- [ ] AWS Skill Builder - Introduction to Amazon Athena (Portuguese)
+- [x] AWS Skill Builder - Introduction to Amazon Athena (Portuguese)
 
-- [ ] AWS Skill Builder - Introduction to Amazon Quicksight (Portuguese)
+- [x] AWS Skill Builder - Introduction to Amazon Quicksight (Portuguese)
 
-- [ ] AWS Skill Builder - Introduction to AWS IoT Analytics
+- [x] AWS Skill Builder - Introduction to AWS IoT Analytics
 
-- [ ] AWS Skill Builder - Getting Started with Amazon Redshift
+- [x] AWS Skill Builder - Getting Started with Amazon Redshift
 
-- [ ] AWS Skill Builder - Deep Dive into Concepts and Tools for Analyzing Streaming Data (Portuguese)
+- [x] AWS Skill Builder - Deep Dive into Concepts and Tools for Analyzing Streaming Data (Portuguese)
 
-- [ ] AWS Skill Builder - Best Practices for Data Warehousing with Amazon Redshift (Portuguese)
+- [x] AWS Skill Builder - Best Practices for Data Warehousing with Amazon Redshift (Portuguese)
 
-- [ ] AWS Skill Builder - Serverless Analytics (Portuguese)
+- [x] AWS Skill Builder - Serverless Analytics (Portuguese)
 
-- [ ] AWS Skill Builder - Why Analytics for Games (Portuguese)
+- [x] AWS Skill Builder - Why Analytics for Games (Portuguese)
 
-- [ ] Data & Analytics - PB - AWS 6/10
+- [x] Data & Analytics - PB - AWS 6/10
 
 #### Sprint 7
 - [ ] Data & Analytics - PB - AWS 7/10
@@ -130,6 +130,6 @@
 - [ ] Data & Analytics - PB - AWS 10/10
 
 #### Cultura Ágil e Segurança 
-- [ ] Segurança em Aplicações WEB
+- [x] Segurança em Aplicações WEB
 
 - [ ] Métodos ágeis de A a Z: O curso completo
