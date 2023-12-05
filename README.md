@@ -106,13 +106,13 @@
 - [x] Data & Analytics - PB - AWS 6/10
 
 #### Sprint 7
-- [ ] Data & Analytics - PB - AWS 7/10
+- [x] Data & Analytics - PB - AWS 7/10
 
-- [ ] Learn By Example: Hadoop, MapReduce for Big Data problems
+- [x] Learn By Example: Hadoop, MapReduce for Big Data problems
       
-- [ ] Formação Spark com Pyspark : o Curso Completo
+- [x] Formação Spark com Pyspark : o Curso Completo
 
-- [ ] Data & Analytics - PB - AWS 7/10
+- [x] Data & Analytics - PB - AWS 7/10
 
 #### Sprint 8
 - [ ] Data & Analytics - PB - AWS 8/10
