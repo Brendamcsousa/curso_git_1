@@ -1,0 +1,63 @@
+{
+	"jobConfig": {
+		"name": "job_aws_glue_lab_4",
+		"description": "",
+		"role": "arn:aws:iam::340939574617:role/AWSGlueServiceRole-Lab4",
+		"command": "glueetl",
+		"version": "3.0",
+		"runtime": null,
+		"workerType": "G.1X",
+		"numberOfWorkers": 2,
+		"maxCapacity": 2,
+		"maxRetries": 0,
+		"timeout": 5,
+		"maxConcurrentRuns": 1,
+		"security": "none",
+		"scriptName": "job_aws_glue_lab_4.py",
+		"scriptLocation": "s3://aws-glue-assets-340939574617-us-east-1/scripts/",
+		"language": "python-3",
+		"spark": false,
+		"sparkConfiguration": "standard",
+		"jobParameters": [
+			{
+				"key": "--job_aws_glue_lab_4",
+				"value": "job_aws_glue_lab_4",
+				"existing": false,
+				"markedForRemoval": false,
+				"valid": true
+			},
+			{
+				"key": "--S3_INPUT_PATH",
+				"value": "s3://mybucketex01/",
+				"existing": false,
+				"markedForRemoval": false,
+				"valid": true
+			},
+			{
+				"key": "--S3_TARGET_PATH",
+				"value": "s3://mybucketex01/",
+				"existing": false,
+				"markedForRemoval": false,
+				"valid": true
+			}
+		],
+		"tags": [],
+		"jobMode": "DEVELOPER_MODE",
+		"createdOn": "2023-12-06T22:53:56.421Z",
+		"developerMode": true,
+		"connectionsList": [],
+		"temporaryDirectory": "s3://aws-glue-assets-340939574617-us-east-1/temporary/",
+		"logging": true,
+		"glueHiveMetastore": true,
+		"etlAutoTuning": true,
+		"metrics": true,
+		"observabilityMetrics": true,
+		"bookmark": "job-bookmark-disable",
+		"sparkPath": "s3://aws-glue-assets-340939574617-us-east-1/sparkHistoryLogs/",
+		"flexExecution": false,
+		"minFlexWorkers": null,
+		"pythonPath": null
+	},
+	"hasBeenSaved": false,
+	"script": "import sys\r\nfrom awsglue.transforms import *\r\nfrom awsglue.utils import getResolvedOptions\r\nfrom pyspark.context import SparkContext\r\nfrom awsglue.context import GlueContext\r\nfrom awsglue.job import Job\r\n\r\n## @params: [--job_aws_glue_lab_4]\r\nargs = getResolvedOptions(sys.argv, ['job_aws_glue_lab_4','S3_INPUT_PATH','S3_TARGET_PATH'])\r\n\r\nsc = SparkContext()\r\nglueContext = GlueContext(sc)\r\nspark = glueContext.spark_session\r\njob = Job(glueContext)\r\njob.init(args['job_aws_glue_lab_4'], args)\r\n\r\nsource_file = args['S3_INPUT_PATH']\r\ntarget_path = args['S3_TARGET_PATH']\r\n\r\ndf = glueContext.create_dynamic_frame.from_options(\r\n\"s3\",\r\n{\r\n\"paths\": [\r\nsource_file\r\n]\r\n},\r\n\"csv\",\r\n{\"withHeader\": True, \"separator\":\",\"},\r\n)\r\nonly_1934 = df.filter(lambda row: row['ano']=='1934')\r\nglueContext.write_dynamic_frame.from_options(\r\nframe = only_1934,\r\nconnection_type = \"s3\",\r\nconnection_options = {\"path\": target_path},\r\nformat = \"parquet\")\r\n\r\njob.commit()\r\n\r\n"
+}
