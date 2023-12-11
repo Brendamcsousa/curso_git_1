@@ -132,4 +132,4 @@
 #### Cultura Ágil e Segurança 
 - [x] Segurança em Aplicações WEB
 
-- [ ] Métodos ágeis de A a Z: O curso completo
+- [x] Métodos ágeis de A a Z: O curso completo
