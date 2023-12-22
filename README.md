@@ -115,9 +115,9 @@
 - [x] Data & Analytics - PB - AWS 7/10
 
 #### Sprint 8
-- [ ] Data & Analytics - PB - AWS 8/10
+- [x] Data & Analytics - PB - AWS 8/10
 
-- [ ] [Opcional] AWS - Tutoriais Técnicos - Analytics
+- [x] [Opcional] AWS - Tutoriais Técnicos - Analytics
 
 #### Sprint 9
 - [ ] Data & Analytics - PB - AWS 9/10
