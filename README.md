@@ -120,7 +120,7 @@
 - [x] [Opcional] AWS - Tutoriais Técnicos - Analytics
 
 #### Sprint 9
-- [ ] Data & Analytics - PB - AWS 9/10
+- [x] Data & Analytics - PB - AWS 9/10
 
 #### Sprint 10
 - [ ] Complete Introduction to AWS QuickSight [2023 Edition]
