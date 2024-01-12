@@ -55,8 +55,8 @@ INSERT INTO Carro (idCarro, kmCarro, chassiCarro, marcaCarro, modeloCarro, anoCa
 SELECT DISTINCT idCarro, kmCarro, classiCarro, marcaCarro, modeloCarro, anoCarro
 FROM tb_locacao
 
--- Inserir dados na tabela Commbustivel
-INSERT INTO Commbustivel (idcombustivel, tipoCombustivel)
+-- Inserir dados na tabela Combustivel
+INSERT INTO Combustivel (idcombustivel, tipoCombustivel)
 SELECT DISTINCT idCombustivel, tipoCombustivel
 FROM tb_locacao
 
