@@ -1,17 +1,9 @@
-Passo a passo realizado para realizar a normalização da tabela tb_locacao.
+Passo a passo realizado para efetivar a normalização da tabela tb_locacao.
 
-1º Identificar Dependências Funcionais:
-Análise da tabela e identificação das dependências funcionais entre as colunas.
-Exemplos de dependências funcionais identificadas: idCliente determinando nomeCliente, cidadeCliente, etc.
-Remover Redundâncias:
+1º Verificação das formas normais (1NF, 2NF e 3NF) que estabelecem regras para a organização dos dados.
 
-2º Verificar a existência de colunas que podem ser derivadas de outras. 
+2º Verificação de Dependências Funcionais para entender à maneira como os atributos da tabela dependem uns dos outros.
 
-3º Para dados categóricos como marcaCarro, modeloCarro, tipoCombustivel, por exemplo, foram criadas tabelas de referência separadas e usadas chaves estrangeiras na tabela principal.
-Assim a tabela foi dividida em Partes Menores cada uma representando uma entidade específica (ex: locacao, cliente, carro, vendedor e combustivel).
+3º Elaboração da divisão da tabela em 5 novas: Cliente, Vendedor, Carro, Combustivel e Locação.
 
-4º Garantir Integridade Referencial:
-Ao criar chaves estrangeiras, foi certificado de que a integridade referencial fosse mantida, pois não é possível ter uma referência para um valor que não existe na tabela de origem.
-
-5º Atualizar Relacionamentos:
-Para garanta que os relacionamentos entre as tabelas estivessem corretos, com chaves estrangeiras sendo usadas adequadamente.
+4º Repasse dos dados da tb_locacao para as novas.
