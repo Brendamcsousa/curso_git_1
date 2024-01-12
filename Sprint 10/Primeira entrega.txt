@@ -1,0 +1,13 @@
+Três perguntas referentes ao gênero romance utilizandos os dados coletados previamente sobre filmes:
+1. Quais as semelhanças identificadas entre os filmes do gênero romance de maior sucesso de popularidade dos últimos 10 anos?
+
+Primeiramente será identificado o filme de romance mais popular de cada ano dos últimos 10 ano e depois será analisado se existem semelhanças entre eles, como dados parecidos, ou palavras-chaves iguais.
+
+2. Existe ligação entre o aumento da representação da diversidade sexual e a popularidade dessas narrativas nos filmes de romance desde o início dos anos 2000? 
+
+Será filtrado os filmes de romance desde o início dos anos 2000. Depois localizadas as palavras-chave do tema. Destes filmes localizados será observado a popularidade dos mesmo em comparação de filmes de outras temáticas do mesmo período.
+
+3. É possível identificar padrões temporais e culturais atráves da análise de popularidade dos subgênros do romance: romance histórico e contemporâneo?
+
+Identificação dos filmes dos subgênros romance histórico e contemporâneo através de palavras-chave. Identificar se existe uma padronização da prefêrencia por cada um desses temas no decorrer do tempo. A partir do resultado obtido analisar se existem motivos para essa movimento.   
+
