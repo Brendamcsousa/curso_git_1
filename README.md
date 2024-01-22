@@ -123,11 +123,11 @@
 - [x] Data & Analytics - PB - AWS 9/10
 
 #### Sprint 10
-- [ ] Complete Introduction to AWS QuickSight [2023 Edition]
+- [x] Complete Introduction to AWS QuickSight [2023 Edition]
 
-- [ ] [Opcional] Workshop de QuickSight para Autores
+- [x] [Opcional] Workshop de QuickSight para Autores
 
-- [ ] Data & Analytics - PB - AWS 10/10
+- [x] Data & Analytics - PB - AWS 10/10
 
 #### Cultura Ágil e Segurança 
 - [x] Segurança em Aplicações WEB
